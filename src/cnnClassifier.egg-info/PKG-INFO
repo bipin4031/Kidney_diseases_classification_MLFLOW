@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/bipin4031/Kidney_diseases_classification_MLFLOW
+Author: bipin4031
+Author-email: bipin.cool50@gmail.com
+Project-URL: Bug Tracker, https://github.com/bipin4031/Kidney_diseases_classification_MLFLOW/issues
+Description-Content-Type: text/markdown
+
+# Kidney_diseases_classification_MLFLOW
